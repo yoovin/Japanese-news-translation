@@ -1,0 +1,34 @@
+https://headlines.yahoo.co.jp/hl?a=20191002-35143408-cnetj-sci
+
+Twitter公式クライアント「TweetDeck」、世界的な障害が発生
+
+10月2日10時頃より、Twitter公式クライアント「TweetDeck」で障害が発生している。
+
+11時40分現在、TweetDeckにログインしようとすると、Twitter公式ページにリダイレクトされる状況となっている。またTwitter上では、ツイートの投稿に失敗するとの声も一部で上がっている。
+
+障害発生報告サイトOutage.Reportでは、全世界的にTweetDeckの障害発生が報告されている。
+
+Twitterによると、ストリーミングAPIに問題が発生しており、これを調査中だという。また11時55分現在、データの送信時に遅延や欠落の可能性があるとしている。
+
+We've been experiencing outages across Twitter and TweetDeck. You might have had trouble Tweeting, getting notifications, or viewing DMs. We're currently working on a fix, and should be back to normal soon.— Twitter Support (@TwitterSupport) October 2, 2019
+
+【10月2日14時50分追記】
+
+Twitterは14時14分、サービスが復旧したことを発表した。
+
+Twitter 공식 클라이언트 'TweetDeck', 세계적인 장애가 발생
+
+10월 2일 10시경 부터 Twitter공식 클라이언트 'TweetDeck'에서 장애가 발생하고있다.
+
+11시 40분 현재 TweetDeck에 로그인하려고 하면 Twitter공식 페이지에 리다이렉트되는 상태가 되어있다. 또한 Twitter상에서는 트윗의 게시에 실패하는 목소리도 일부에서 높아지고있다.
+
+장애발생 보고 사이트 Outage.Report에서는 세계적으로 TweetDeck의 장애발생이 보고되고있다.
+
+Twitter에 따르면 스트리밍 API에 문제가 발생해 이를 조사중이라고 한다. 또한 11시 66분 현재 데이터송신시 지연과 누락의 가능성이 있다고 한다.
+
+【10월 2일 14시 50분 추가 기재】
+
+Twitter는 14시 14분 서비스가 복구되었다고 발표했다.
+
+欠落 けつらく 결락, 결핍
+
